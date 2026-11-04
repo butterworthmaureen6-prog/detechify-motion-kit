@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+out/
+renders/
+tmp/
+__pycache__/
+*.mp4
+*.mov
+*.wav
+*.psd
+*.blend1
+# third-party reference material never goes in this repo
+references/frames/
+references/third-party/
